@@ -1,0 +1,1 @@
+class worker < Officer
